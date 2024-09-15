@@ -1,6 +1,9 @@
 body {
     background-color: #DDE6ED;
 }
+body > div {
+    border-style: dashed;
+}
 img {
     width: 200px;
     height: 200px;
