@@ -5,7 +5,6 @@
 - 💞️ I’m working on Projects on a Begineer/ Intermediate level, in the Domain of Data Science , ML , Web.
 - 📫 How to reach me :
         Email: iamanilnagvanshi@gmail.com
-        Whatsapp: +91 798459013
 
 <!---
 Kakashi27/Kakashi27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
